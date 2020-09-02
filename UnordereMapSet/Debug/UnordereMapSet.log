@@ -1,0 +1,19 @@
+﻿生成启动时间为 2020/9/2 22:26:09。
+     1>项目“D:\Bit Code\UnordereMapSet\UnordereMapSet\UnordereMapSet.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp
+         Test.cpp
+     1>d:\bit code\unorderemapset\unorderemapset\hashtable.h(10): error C2953: “Hash_Node”: 类模板已经定义
+                 d:\bit code\unorderemapset\unorderemapset\hashtable.h(3) : 参见“Hash_Node”的声明
+     1>d:\bit code\unorderemapset\unorderemapset\hashtable.h(62): error C2953: “_HashTableIterator”: 类模板已经定义
+                 d:\bit code\unorderemapset\unorderemapset\hashtable.h(18) : 参见“_HashTableIterator”的声明
+     1>d:\bit code\unorderemapset\unorderemapset\hashtable.h(70): error C2953: “_Hash”: 类模板已经定义
+                 d:\bit code\unorderemapset\unorderemapset\hashtable.h(66) : 参见“_Hash”的声明
+     1>d:\bit code\unorderemapset\unorderemapset\hashtable.h(83): error C2913: 显式专用化；“_Hash”不是类模板的专用化
+     1>d:\bit code\unorderemapset\unorderemapset\hashtable.h(220): error C2953: “Hash_Table”: 类模板已经定义
+                 d:\bit code\unorderemapset\unorderemapset\hashtable.h(88) : 参见“Hash_Table”的声明
+     1>已完成生成项目“D:\Bit Code\UnordereMapSet\UnordereMapSet\UnordereMapSet.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.52
